@@ -7,6 +7,8 @@ Have an unorganized movie library? Have inconsistent file naming? Don't have tim
 
 <i>mm</i> will help you to rename your movie library.
 
+![mm.gif](assets/mm.gif)
+
 ## Great! What do I need?
 
 Just regular python3 with `PyInquirer`.
@@ -75,12 +77,12 @@ I would highly appreciate any kind of support. May it be adding new databases or
 <tr>
 <td>
 <a href="https://www.themoviedb.org/">
-<img src="assets/tmdb.svg" height=200 />
+<img src="assets/tmdb.svg" height=100 />
 </a>
 </td>
 <td>
 <a href="https://www.omdbapi.com/">
-<img src="assets/omdb.jpg" height=200 />
+<img src="assets/omdb.jpg" height=100 />
 </a>
 </td>
 </tr>
